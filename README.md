@@ -2,7 +2,8 @@
 Machine Learning Challenge by Hackerearth. 
 Challenge Link: https://www.hackerearth.com/challenges/competitive/predict-ad-success-hackerearth-machine-learning-challenge/problems/
 
-## Overall Ranking Achieved : Top 4% on Leaderboard (Score 73.648)
+## Overall Ranking Achieved : 
+#### Top 4% on Leaderboard (Score 73.648)
 Evaluation Criteria : Accuracy*100
 
 ### Problem:
